@@ -2,6 +2,12 @@
 
 ## NER Model Using BERT - Report
 
+submitted by:
+| Name of member | BITS ID | Email |
+|---|---|---|
+| Shreyas V | 2020B2A71350G | f20201350@goa.bits-pilani.ac.in |
+| Pranav Srikanth | 2020B5A71865G | f20201865@goa.bits-pilani.ac.in |
+
 ### 1. Data Preparation and Pre-processing
 
 Data for Named Entity Recognition (NER) was sourced from the CONLL2003 dataset. The dataset consists of sentences annotated with entity types such as person, organization, location, etc.
