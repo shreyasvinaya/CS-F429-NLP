@@ -1,6 +1,13 @@
----
+
 
 ## NER Model Using BERT - Report
+
+
+| Name of member | BITS ID | Email |
+|---|---|---|
+| Shreyas V | 2020B2A71350G | f20201350@goa.bits-pilani.ac.in |
+| Pranav Srikanth | 2020B5A71865G | f20201865@goa.bits-pilani.ac.in |
+
 
 ### 1. Data Preparation and Pre-processing
 
