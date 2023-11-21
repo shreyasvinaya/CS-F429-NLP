@@ -4,5 +4,11 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"[python]": {
+			"editor.formatOnSaveMode": "file",
+			"editor.formatOnSave": true,
+			"editor.defaultFormatter": "eeyore.yapf"
+		},
+	}
 }
