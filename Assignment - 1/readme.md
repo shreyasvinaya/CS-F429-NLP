@@ -2,7 +2,6 @@
 
 ## NER Model Using BERT - Report
 
-submitted by:
 | Name of member | BITS ID | Email |
 |---|---|---|
 | Shreyas V | 2020B2A71350G | f20201350@goa.bits-pilani.ac.in |
