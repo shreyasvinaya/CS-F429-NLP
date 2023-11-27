@@ -53,4 +53,9 @@ The ground truth for the CONLL2003 dataset comprises annotations for named entit
 - **Metrics Used**: Precision, Recall, and F1-Score.
 - **Comparison**: Benchmarked against baseline models to illustrate improvements or changes.
 
----
+![train_loss](https://github.com/shreyasvinaya/CS-F429-NLP/assets/72306130/323fd3c6-531a-4bad-8ad4-53cae03693f2)
+
+## Loss incurred vs Training Epochs for batch size of 64 and 128
+
+![WhatsApp Image 2023-11-25 at 09 55 13](https://github.com/shreyasvinaya/CS-F429-NLP/assets/72306130/66de2be6-ee28-47f3-a96c-7e834180f123)
+## Train Loss Graph on Fine tuning
