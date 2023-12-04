@@ -2,3 +2,4 @@
 .DS_Store
 taggers/
 models/
+.env
